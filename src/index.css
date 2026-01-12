@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased text-text-primary bg-background;
+    font-feature-settings: "ss01", "ss02", "cv01", "cv02";
+  }
+}
