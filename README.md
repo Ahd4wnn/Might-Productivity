@@ -299,15 +299,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Ahd4wnn)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/adon-joseph-867a8b377/)
+- GitHub: [@Ahd4wnn](https://github.com/Ahd4wnn)
+- LinkedIn: [Adon Joseph](https://www.linkedin.com/in/adon-joseph-867a8b377/)
 
 ## 🙏 Acknowledgments
 
@@ -317,8 +313,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or feedback, reach out at your.email@example.com
-
----
-
-Built with ❤️ using AI-powered development tools
+For questions or feedback, reach out at adonjoseph@karunya.edu.in
